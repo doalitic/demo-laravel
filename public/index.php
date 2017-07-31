@@ -1,5 +1,5 @@
 <?php
-die("Laravel in GitHub Master Branch v1");
+die("Laravel in GitHub Develop Branch v1");
 
 /**
  * Laravel - A PHP Framework For Web Artisans
