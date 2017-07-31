@@ -1,5 +1,5 @@
 <?php
-die("Laravel in GitHub Develop Branch v3");
+die("Laravel in GitHub Develop Branch v4");
 
 /**
  * Laravel - A PHP Framework For Web Artisans
